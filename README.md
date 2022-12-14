@@ -22,7 +22,7 @@ Repositório reservado para o Bootcamp Orange Tech +, uma parceria [Inter](https
 <a href="https://vidigal-code.github.io/Calculator-Dio-Challenge-1/" target="_blank">Click Here to view the Project</a>
 </p>
 <br/>
-<img align="center" src="https://github.com/Vidigal-code/Calculator-Dio-Challenge-1/blob/main/src/assets/img/Calculator.gif" alt=""/>
+<img align="center" src="https://github.com/Vidigal-code/Calculator-Dio-Challenge-1/blob/main/src/assets/img/Calculator.gif" alt="Calculator"/>
 
 
 # Getting Started with Create React App
